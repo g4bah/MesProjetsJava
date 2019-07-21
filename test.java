@@ -158,6 +158,7 @@ public class EXo {
 			fact2=fact2*j;
 		}
 		 System.out.println(fact2);
+		 System.out.println("le calcul de factoriel est terminé......")
 	}
 
 }
