@@ -231,6 +231,7 @@ public class EXo {
 		}
 				
 		System.out.println(som);
+		System.out.println("la somme est calculée avec succès ")
 		
 	}
 	
